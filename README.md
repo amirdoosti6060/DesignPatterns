@@ -6,7 +6,8 @@ I'm also going to write an article for each design pattern to completely covers 
 
 Creational Design Patterns
 1. Factory Method: https://www.linkedin.com/pulse/factory-method-amir-doosti-cketf
-2. Abstrct Factory: https://www.linkedin.com/pulse/abstract-factory-amir-doosti-vexwf   
+2. Abstrct Factory: https://www.linkedin.com/pulse/abstract-factory-amir-doosti-vexwf
+3. Singleton: https://www.linkedin.com/pulse/singleton-amir-doosti-e3trf    
 
 ## Structure of soution
 The solution contains several Console App projects which are written in Visual Studio. 
