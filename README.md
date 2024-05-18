@@ -9,7 +9,10 @@ Creational Design Patterns
 2. Abstrct Factory: https://www.linkedin.com/pulse/abstract-factory-amir-doosti-vexwf
 3. Singleton: https://www.linkedin.com/pulse/singleton-amir-doosti-e3trf
 4. Builder: https://www.linkedin.com/pulse/builder-amir-doosti-gpbif
-5. Prototype: https://www.linkedin.com/pulse/prototype-amir-doosti-5ncwf   
+5. Prototype: https://www.linkedin.com/pulse/prototype-amir-doosti-5ncwf
+
+Structural Design Patterns   
+1. Adapter: https://www.linkedin.com/pulse/adapter-amir-doosti-ineff/   
 
 ## Structure of soution
 The solution contains several Console App projects which are written in Visual Studio. 
