@@ -14,7 +14,8 @@ Creational Design Patterns
 Structural Design Patterns   
 1. Adapter: https://www.linkedin.com/pulse/adapter-amir-doosti-ineff
 2. Bridge: https://www.linkedin.com/pulse/bridge-amir-doosti-i5usc
-3. Composite: https://www.linkedin.com/pulse/composite-amir-doosti-pjkwf   
+3. Composite: https://www.linkedin.com/pulse/composite-amir-doosti-pjkwf
+4. Decorator: https://www.linkedin.com/pulse/decorator-amir-doosti-dmkhf   
 
 ## Structure of soution
 The solution contains several Console App projects which are written in Visual Studio. 
