@@ -17,7 +17,8 @@ Structural Design Patterns
 3. Composite: https://www.linkedin.com/pulse/composite-amir-doosti-pjkwf
 4. Decorator: https://www.linkedin.com/pulse/decorator-amir-doosti-dmkhf
 5. Facade: https://www.linkedin.com/pulse/facade-amir-doosti-vzipf
-6. Flyweight: https://www.linkedin.com/pulse/flyweight-amir-doosti-x7umf   
+6. Flyweight: https://www.linkedin.com/pulse/flyweight-amir-doosti-x7umf
+7. Proxy: https://www.linkedin.com/pulse/proxy-design-pattern-amir-doosti-kxsef    
 
 ## Structure of soution
 The solution contains several Console App projects which are written in Visual Studio. 
